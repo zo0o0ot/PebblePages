@@ -1,7 +1,7 @@
 {
   "title": "Appleton Recycle",
   "fields": {
-    "some-number": {
+    "propertyId": {
       "type": "number",
       "title": "Enter Property Number (found on http://my.appleton.org/)"
     }
