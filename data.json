@@ -1,30 +1,9 @@
 {
-  "title": "Some App Name",
+  "title": "Appleton Recycle",
   "fields": {
-    "some-field": {
-      "type": "text",
-      "title": "Some Title"
-    },
     "some-number": {
       "type": "number",
-      "title": "Enter Number"
-    },
-    "color-picker": {
-      "type": "color",
-      "title": "Pick color"
-    },
-    "range-picker": {
-      "type": "range",
-      "title": "Pick range",
-      "data": {
-        "min": 0,
-        "max": 100,
-        "step": 50
-      }
-    },
-    "another-field": {
-      "type": "checkbox",
-      "title": "Toggle?"
+      "title": "Enter Property Number (found on http://my.appleton.org/)"
     }
   }
 }
