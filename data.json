@@ -1,9 +1,13 @@
 {
-  "title": "Appleton Recycle",
+  "title": "Northeast WI Recycle",
   "fields": {
-    "propertyId": {
+    "address": {
+      "type": "text",
+      "title": "Enter your address (no zip code)"
+    },
+    "zipcode": {
       "type": "number",
-      "title": "Enter Property Number (found on http://my.appleton.org/)"
+      "title": "Enter your zip code (5 digits only)"
     }
   }
 }
